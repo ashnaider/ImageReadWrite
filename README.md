@@ -7,7 +7,7 @@ Read and write image (jpeg, png, etc.) using stb single file library without any
 Read image, and write only green channel
 
 ### Input image
-![main screen](img/input.jpeg)
+![main screen](img/pichachu.jpeg)
 
 
 ### Output image
