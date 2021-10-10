@@ -1,6 +1,8 @@
 # ImageReadWrite
 Read and write image (jpeg, png, etc.) using stb single file library without any dependencies!
 
+## stb library
+stb library: https://github.com/nothings/stb
 
 ## Example
 
